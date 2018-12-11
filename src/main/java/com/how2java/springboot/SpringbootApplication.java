@@ -10,5 +10,6 @@ public class SpringbootApplication {
 		SpringApplication.run(SpringbootApplication.class, args);
 		System.out.println("test2");
 		System.out.println("test3");
+		System.out.println("test4");
 	}
 }
